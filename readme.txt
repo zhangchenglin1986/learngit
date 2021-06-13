@@ -16,3 +16,5 @@ Creating a new branch is quick AND simple
 >>>>>>> featurel
 
 add geg
+
+git is a free software.
