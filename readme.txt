@@ -6,3 +6,5 @@ adfadf
 sdfaadfa
 
 ddddd
+
+Creating a new branch is quick
